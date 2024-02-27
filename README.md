@@ -1,6 +1,6 @@
 # TANK_AVR
 ATmega 328p program for a wheeled robot.
-Features
+Features:
  - L298N DC motor driver throuh GPIO ports control
  - servo motor fast 8-bit PWM control
  - 3 channel ADC support for 2 joysticks 
