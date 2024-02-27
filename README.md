@@ -14,3 +14,5 @@ JOY1 Y - PC0 ADC0
 JOY1 X - PC1 ADC1
 JOY1 BUTTON - PD2 INT0 DONE
 JOY2 X - PC2 ADC2
+
+source code is located in TANK_AVR/TANK/src/main.cpp
